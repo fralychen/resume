@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to fralychen_resume Pages
 
-You can use the [editor on GitHub](https://github.com/fralychen/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 基本信息
 
 ```markdown
-Syntax highlighted code block
+最高学历：大专
 
-# Header 1
-## Header 2
-### Header 3
+工作年限：3年
 
-- Bulleted
-- List
+出生年份：1992
 
-1. Numbered
-2. List
+邮箱：fralychen@gmail.com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+户籍：湖北武汉
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 工作经历
+```markdown
+-2016.03~2016.10
+#武汉博文优创网络科技有限公司（湖北爱旅纷途国际旅行社）
+工作年限：3年
 
-### Jekyll Themes
+出生年份：1992
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fralychen/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+邮箱：fralychen@gmail.com
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+户籍：湖北武汉
+```
